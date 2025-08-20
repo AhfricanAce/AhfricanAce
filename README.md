@@ -1,8 +1,7 @@
 # Agbai Victor
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;IT+Coach)](https://git.io/typing-svg)
-I'm interested in IT Coaching, Software Engineering <br>
+Researcher <br>
 
-Currently I'm Learning and Trying to Hone My Skill: <br>
 
 ---
 ### My Stack
