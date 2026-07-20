@@ -4,7 +4,7 @@ Researcher <br>
 
 
 ---
-### My Stack
+### Programming Language:
 
 <p align="center">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
