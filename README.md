@@ -1,5 +1,5 @@
 # Agbai Victor
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Qt+Developer!;Researcher;IT+Enthusiat;C'++'+Lover)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Qt+Developer!;Researcher;IT+Enthusiast;Cpp+Lover)](https://git.io/typing-svg)
 Machine_Victor <br>
 
 
